@@ -68,11 +68,11 @@ body{
 	left:0%;
 	width:100%;
 	min-width:800px;
-	min-height:20px;
-	line-height:20px;
+	*min-height:20px;
+	line-height:26px;
 	background: rgb(5, 22, 77);
 	color:#FFF;
-	font-size:10px;
+	font-size:12px;
 	margin:0;
     z-index:10;
     text-align:center;

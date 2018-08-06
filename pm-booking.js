@@ -256,7 +256,7 @@
         var footer = document.createElement("DIV");
         footer.classList.add("footer");
 		document.body.appendChild(footer);
-		footer.innerHTML = "WebUI, API Handling, Appication Backend and Database by Cegeka DE (DQ)";
+		footer.innerHTML = "<b>Lufthansa opsITservices:</b> &emsp; Monday - Sunday 6.00 am - 9.30 pm &emsp; | &emsp; mail opsitmuc@dlh.de &emsp; | &emsp; phone +49 69696 92 999";
 	}
 
 //-------------------------------------------------
